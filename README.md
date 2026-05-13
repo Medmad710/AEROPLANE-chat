@@ -47,5 +47,4 @@ python server.py
 * **Frontend:** HTML5, CSS3 (Flexbox), JavaScript (Vanilla JS).
 * **Storage:** JSON (Server-side), localStorage (Client-side).
 
-```
 
